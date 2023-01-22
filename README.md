@@ -6,7 +6,7 @@ This challenge helped me to apply the use of bootstrap to build a simple website
 ![image](https://user-images.githubusercontent.com/117104387/213898491-1fd40dad-0ca9-4017-85b5-3a243436a67f.png)
 
 ## What did I learn?
-I learn to use wireframing to draw a rough sketch of how I wanted my webpage to look like. 
+I learnt to use wireframing to draw a rough sketch of how I wanted my webpage to look like and to use https://getbootstrap.com/ features. 
 
 ## What could I have done better?
 I could have used Figma.com to design the UX of the page. I'll learn to use Figma and implement it in my future work.
