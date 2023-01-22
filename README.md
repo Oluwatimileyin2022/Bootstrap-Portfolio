@@ -2,7 +2,7 @@
 A website built using bootstrap knowledge
 ## Bootstrap challenge
 This challenge helped me to apply the use of bootstrap to build a simple website from scratch using HTML and CSS knowledge
-![image](https://user-images.githubusercontent.com/117104387/213898483-520d92f3-2572-4a8b-8f5f-683b931729bc.png)
+![image](https://user-images.githubusercontent.com/117104387/213898627-26f80677-9051-431c-989c-75ffd4fc0125.png)
 ![image](https://user-images.githubusercontent.com/117104387/213898491-1fd40dad-0ca9-4017-85b5-3a243436a67f.png)
 
 ## What did I learn?
