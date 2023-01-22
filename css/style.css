@@ -1,0 +1,45 @@
+
+.navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+    Height: 15px;
+    size: auto;
+  }
+
+/*Jumbotron */
+.jumbotron {
+    background-image: url(../images/Lion_on_a_mountain_image.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: calc(70vh - 25px);
+    color: white;
+}
+
+.jumbocopy {
+    margin-top: 80px;
+}
+
+
+.austin {
+    height: 130px;
+    float: right;
+    margin-top: -140px;
+    border: 3px solid skyblue;
+}
+
+.technical {
+    height: 130px;
+    float: right;
+    margin-top: -200px;
+    border: 3px solid skyblue;
+}
+
+.card:hover {
+    color: skyblue
+}
+
+.container a {
+    display: flex;
+    justify-content: space-around;
+}
